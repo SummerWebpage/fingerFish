@@ -15,6 +15,7 @@
 </head>
 
 <body>
+<img src="Flounder.jpg" alt="Finger Fish" align="left" border="0" hspace="10" height="200"/> 
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times"><b>My First</b></h1>
 <p class="p2">My first paragraph.</p>
 <p class="p3"><br></p>
