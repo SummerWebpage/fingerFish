@@ -1,32 +1,24 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-
-  <title>John Thomas</title>
-  <style type="text/css">
-    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times}
-    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
-  </style>
-
+  <title>Webpage Yeah!</title>
+  <link style="text/css" rel="stylesheet" href="ffStyleSheet.css" />
 </head>
 
 <!--this sets the background color to light blue-->
-<body bgcolor="#A3E0FF">
+<body>
 
 <!-- pic of JT -->
 <div id="left">
   <img class="spotlight" alt="" aria-describedby="fbPhotosSnowliftCaption" aria-busy="false" src="https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10686593_888835937815074_2678490209064425765_n.jpg?oh=ec68678c7305165c79fc7ca6253f361f&amp;oe=56316F89" style="width: 300px; height: 300px;">
+    <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times"><b>John Thomas</b></h1>
+  <p>I am a computer science student at the University of Texas in Austin.</p>
 </div>
 
 <!-- pic of Blake -->
 <div id="right">
   <img class="spotlight" alt="" aria-describedby="fbPhotosSnowliftCaption" aria-busy="false" src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10300034_833737669988581_3683290072634863020_n.jpg?oh=c7f299fb4811c93da14654ac3f946641&amp;oe=561B40F1" style="width:400px; height:320px;;">
 </div>
-
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times"><b>John Thomas</b></h1>
-<p class="p2">I am a computer science student at the University of Texas in Austin.</p>
-<p class="p3"><br></p>
-<p class="p3"><br></p>
 
 </body>
 </html>
