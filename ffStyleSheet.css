@@ -10,8 +10,10 @@ body {
 #left {
   width:45%;
   float:left;
+  border-right: 2px solid black;
 }
 #right {
   width:45%;
   float:right;
+  border-left: 2px solid black;
 }
