@@ -1,0 +1,17 @@
+/* File: ffStyleSheet.css */
+
+/* General formatting */
+* {
+  font:20px Times;
+}
+body {
+  background-color:#A3E0FF;
+}
+#left {
+  width:45%;
+  float:left;
+}
+#right {
+  width:45%;
+  float:right;
+}
